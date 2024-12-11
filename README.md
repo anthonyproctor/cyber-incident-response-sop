@@ -15,14 +15,13 @@ This project addresses the critical need for standardized and efficient cyber in
 ## 📂 Project Files
 
 ### 1. **SOP Document**
-   - [Download SOP Template](./Cyber_Incident_Response_SOP.pdf)
+   
 
 ### 2. **Cyber Defense Incident Tracker**
-   - [Download Tracker Template (Excel)](./Cyber_Defense_Incident_Tracker.xlsx)
+   
 
 ### 3. **Incident Response Workflow Flowchart**
-   - ![Workflow Flowchart](./Cyber_Incident_Response_Workflow.png)
-   - [Download Full-Size Flowchart](./Cyber_Incident_Response_Workflow.png)
+ 
 
 ---
 
